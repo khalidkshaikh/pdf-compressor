@@ -1,0 +1,17 @@
+{
+  "name": "PDF Compressor - Compress PDF Free",
+  "short_name": "PDF Compress",
+  "start_url": "/pdf-compressor/",
+  "scope": "/pdf-compressor/",
+  "display": "standalone",
+  "background_color": "#0f0f1a",
+  "theme_color": "#f59e0b",
+  "icons": [
+    {
+      "src": "static/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
